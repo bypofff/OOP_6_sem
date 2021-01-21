@@ -1,3 +1,3 @@
 # OOP
 
-Object-oriented programming. MIPT 2020
+Object Oriented Programming. MIPT 2020
